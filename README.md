@@ -2,6 +2,10 @@
 
 Here I have scipts that help me get image previews in lf using ueberzug in alacritty. You just need to save the files into your system path and add the previewer inside the lf preview setting.
 
+> example
+
+![example](screenshot.png)
+
 Programs needed:
 - tar (tar info)
 - zipinfo
